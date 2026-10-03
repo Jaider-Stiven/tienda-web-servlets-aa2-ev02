@@ -1,0 +1,28 @@
+========================================================================
+SENA - CENTRO DE FORMACIÓN
+TECNOLOGÍA EN ANÁLISIS Y DESARROLLO DE SOFTWARE (ADSO)
+EVIDENCIA: GA7-220501096-AA2-EV02
+MÓDULOS DE SOFTWARE CODIFICADOS Y PROBADOS
+========================================================================
+
+DATOS DEL APRENDIZ:
+- Nombre Completo: Jaider Stiven Londoño Lozada
+- Programa: Tecnología en Análisis y Desarrollo de Software
+- Fase: Desarrollo
+- Actividad de Proyecto: AP7
+- Evidencia: GA7-220501096-AA2-EV02
+
+ENLACE DEL REPOSITORIO DE CONTROL DE VERSIONES (GIT / GITHUB):
+- URL del Repositorio: https://github.com/jaiderlondono/tienda-web-servlets-aa2-ev02.git
+
+DESCRIPCIÓN DEL MÓDULO CODIFICADO:
+Módulo de Gestión de Inventario y Ventas desarrollado bajo arquitectura MVC
+utilizando Java Servlets (Jakarta EE), JSP (JavaServer Pages), JSTL,
+CSS3 moderno responsivo, base de datos MySQL con JDBC y pruebas unitarias JUnit 5.
+Soporta peticiones HTTP GET y POST para todas las operaciones CRUD.
+
+HERRAMIENTAS DE VERSIONAMIENTO:
+- Sistema: Git
+- Plataforma remota: GitHub / GitLab
+- Rama principal: main
+========================================================================
